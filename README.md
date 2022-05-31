@@ -1,4 +1,4 @@
-# DJ with Arduino
+# Password Cracking
 
 >Find the word typed in terminal by brute force.
 
